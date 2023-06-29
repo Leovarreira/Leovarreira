@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Leonardo, and I am currently studying Analysis and Systems Development. I have 3 years and 6 months of experience in the field, performing various roles ranging from programming to assisting with internet network configurations and computer formatting on a large scale.</h4>
+<h4 align="left">Hi 👋! My name is Leonardo, and I am currently studying Analysis and Systems Development. I have 3 years and 6 months of experience in the field, performing various roles ranging from programming to assisting with internet network configurations and computer formatting on a large scale.<br><br>I worked on a web project utilizing PHP, Laravel, and JavaScript for managing an Internet service provider. I also contributed to creating and configuring Linux servers. Currently, I am focused on enhancing my skills in Python through an in-person course during my college studies.<br>Java is my primary language, and I had the opportunity to work on an IoT project involving power generators, exploring the possibilities of this ever-evolving technology.<br><br>I have an intermediate level of English where I am improving my communication skills. Although I am not fluent, I am still able to communicate, read, and write in English.<br><br>I am always seeking new challenges and opportunities to expand my knowledge and skills in the technology field. I am eager to contribute to innovative and efficient solutions.<br><br>Thank you for visiting my profile, and please feel free to reach out to me to discuss collaborations or exciting opportunities.</h4>
 
 ###
 
@@ -59,5 +59,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Leovarreira/Leovarreira/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif"  />
+</div>
 
 ###
