@@ -1,10 +1,10 @@
-<h3 align="left">Hi 👋! My name is Leonardo, and I am currently studying Analysis and Systems Development. I have 3 years and 6 months of experience in the field, performing various roles ranging from programming to assisting with internet network configurations and computer formatting on a large scale.<br><br>I worked on a web project utilizing PHP, Laravel, and JavaScript for managing an Internet service provider. I also contributed to creating and configuring Linux servers. Currently, I am focused on enhancing my skills in Python through an in-person course during my college studies.<br>Java is my primary language, and I had the opportunity to work on an IoT project involving power generators, exploring the possibilities of this ever-evolving technology.<br><br>I have an intermediate level of English where I am improving my communication skills. Although I am not fluent, I am still able to communicate, read, and write in English.<br><br>I am always seeking new challenges and opportunities to expand my knowledge and skills in the technology field. I am eager to contribute to innovative and efficient solutions.<br><br>Thank you for visiting my profile, and please feel free to reach out to me to discuss collaborations or exciting opportunities.</h3>
+<h4 align="left">Hi 👋! My name is Leonardo, and I am currently studying Analysis and Systems Development. I have 3 years and 6 months of experience in the field, performing various roles ranging from programming to assisting with internet network configurations and computer formatting on a large scale.<br><br>I worked on a web project utilizing PHP, Laravel, and JavaScript for managing an Internet service provider. I also contributed to creating and configuring Linux servers. Currently, I am focused on enhancing my skills in Python through an in-person course during my college studies.<br>Java is my primary language, and I had the opportunity to work on an IoT project involving power generators, exploring the possibilities of this ever-evolving technology.<br><br>I have an intermediate level of English where I am improving my communication skills. Although I am not fluent, I am still able to communicate, read, and write in English.<br><br>I am always seeking new challenges and opportunities to expand my knowledge and skills in the technology field. I am eager to contribute to innovative and efficient solutions.<br><br>Thank you for visiting my profile, and please feel free to reach out to me to discuss collaborations or exciting opportunities.</h4>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/12171259950">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -46,9 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="155" src="https://br.pinterest.com/pin/568438784222867946/"  />
 
 ###
